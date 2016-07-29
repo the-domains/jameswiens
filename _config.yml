@@ -1,6 +1,4 @@
-layout_spectrum: 0.8914970527403057
 typography_spectrum: 0.7091515166684985
-style: the-composer
 color:
   brandStrength: 0.9847104446962476
   lightness: 0.2537700943648815
@@ -12,7 +10,10 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8914970527403057
 name: jameswiens
+style: the-composer
+description: test tagline
 purpose:
   - id: a16224db-bdb8-4397-b241-378c28d6f1e0
     type: phone
