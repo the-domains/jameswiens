@@ -20,5 +20,5 @@ purpose:
     label: Call 16045551234
   - id: 9c769cbb-41c5-4599-8540-705f86291c79
     type: external
-    value: 'http://jameswiens.com'
-    label: JamesWiens.com
+    value: 'http://thegrid.io'
+    label: The Grid
