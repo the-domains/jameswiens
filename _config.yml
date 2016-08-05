@@ -13,6 +13,7 @@ color:
 layout_spectrum: 0.8914970527403057
 name: jameswiens
 style: the-composer
+title: test headline
 description: test tagline
 purpose:
   - id: a16224db-bdb8-4397-b241-378c28d6f1e0
